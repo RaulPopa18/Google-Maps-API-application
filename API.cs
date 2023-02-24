@@ -8,6 +8,6 @@ namespace Map
 {
     class API
     {
-        public static string Key { get; } = "AIzaSyCtF_QeLM7By60bGBwFGJ-N4MtK0NNrJmw";
+        public static string Key { get; } = "InsertYourKey";
     }
 }
